@@ -1,0 +1,25 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Quick boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexfm/my-project.git",
+    "start": "PORT=3004 react-scripts start"
+  },
+  "keywords": [
+    "boilerplate",
+    "first",
+    "project"
+  ],
+  "author": "Lex Fimbres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexfm/my-project/issues"
+  },
+  "homepage": "https://github.com/lexfm/my-project#readme"
+}
